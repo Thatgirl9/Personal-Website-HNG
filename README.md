@@ -7,4 +7,4 @@
 - Use of natural dimensions on Image.
 - Fully responsive and visually appealing.
 
-  [Live Site]()
+  [Live Site](https://tech-goals-hng.netlify.app/)
